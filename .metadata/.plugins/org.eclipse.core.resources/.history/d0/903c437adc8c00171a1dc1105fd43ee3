@@ -1,0 +1,13 @@
+spring.application.name: config-service
+server.port: ${PORT:8888}
+spring.profiles.active: prod
+
+---
+
+spring.profiles: dev
+spring.cloud.config.server.git.uri: D:\Java\andrew\SpringCloudDemo-config
+
+---
+
+spring.profiles: prod
+spring.cloud.config.server.git.uri: https://github.com/andrew0921/SpringCloudDemo-config
