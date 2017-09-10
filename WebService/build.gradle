@@ -25,6 +25,7 @@ jar {
 sourceCompatibility = 1.8
 targetCompatibility = 1.8
 
+compileJava.options.encoding = 'windows-1251'
 
 repositories {
 	mavenCentral()

@@ -2,20 +2,20 @@
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
 		<item value="false" key="isRegEx"/>
-		<item value="https://github.com/" key="selection"/>
+		<item value=")})" key="selection"/>
 		<item value="false" key="casesensitive"/>
 		<item value="false" key="incremental"/>
 		<item value="true" key="wrap"/>
 		<item value="false" key="wholeword"/>
 		<list key="findhistory">
-			<item value="https://github.com/"/>
-			<item value="getWatchFilter"/>
-			<item value="dependencies"/>
-			<item value="repositories"/>
-			<item value="mainClassName"/>
-			<item value="application"/>
-			<item value="eclipse"/>
-			<item value="mavenCentral"/>
+			<item value=")})"/>
+			<item value=" message = `"/>
+			<item value=" message = "/>
+			<item value="&quot;"/>
+			<item value="@ApiResponses(value = {@ApiResponse(code = 201, message = &quot;存檔成功&quot;)})"/>
+			<item value="compileJava"/>
+			<item value="compileJava.options.encoding"/>
+			<item value="compileJava.options.encoding = &apos;UTF-8&apos;"/>
 		</list>
 		<list key="replacehistory">
 		</list>
@@ -24,7 +24,7 @@
 		<item value="278" key="DIALOG_WIDTH"/>
 		<item value="1|Microsoft JhengHei UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft JhengHei UI" key="DIALOG_FONT_NAME"/>
 		<item value="391" key="DIALOG_HEIGHT"/>
-		<item value="825" key="DIALOG_X_ORIGIN"/>
-		<item value="157" key="DIALOG_Y_ORIGIN"/>
+		<item value="730" key="DIALOG_X_ORIGIN"/>
+		<item value="453" key="DIALOG_Y_ORIGIN"/>
 	</section>
 </section>
